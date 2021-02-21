@@ -1,9 +1,9 @@
 ### Hi there, my name is Maxwell Kapezi Jr. - aka [MJ Codes][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=MJCodes&style=for-the-badge&url=https%3A%2F%2Fmjcodes.netlify.app)](https://mjcodes.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maxwellKJr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FmaxwellKJr&screen_name=maxwellKJr)
 
-## I'm a Web Developer, Linux Enthusiast, Creative Writer and Gamer!
+## I'm a Full-Stack Web Developer, Linux & Open Source Enthusiast, Creative Writer and Gamer!
 
 - 🛠 I’m currently working on an Open Source GatsbyJS Starter portfolio
 - 👯 I’m looking to collaborate with other programmers especially those from my country, Malawi
