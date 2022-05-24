@@ -5,9 +5,11 @@
 
 ## I'm a Full-Stack Web Developer, Linux & Open Source Enthusiast, Creative Writer and Gamer!
 
-- 🛠 I’m currently working on an Open Source GatsbyJS Starter portfolio
-- 👯 I’m looking to collaborate with other programmers especially those from my country, Malawi
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🛠 I’m currently working on an Open Source GatsbyJS Starter portfolio (Working on the documentation, installation process, and How To Contribute: )
+- 👯 I’m willing to collaborate with other programmers especially those from my country, Malawi
+- 🥅 2022 Goals:
+  - In progress: Learning Laravel
+  - Creating the Struggling Programmer Android App with React Native 
 - ⚡ Did you know: I am a big fan of Stephen King
 
 ### Connect with me:
