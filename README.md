@@ -1,4 +1,4 @@
-### Hi there, my name is Maxwell Kapezi Jr. - aka [MJ Codes / Struggling Programmer][website] 👋
+### Hi there, my name is Maxwell Kapezi Jr. - aka [The Struggling Programmer][website] 👋
 
 [![Website](https://img.shields.io/website?label=MJCodes&style=for-the-badge&url=https%3A%2F%2Fmjcodes.netlify.app)](https://mjcodes.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maxwellKJr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FmaxwellKJr&screen_name=maxwellKJr)
