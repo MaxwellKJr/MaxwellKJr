@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=MJCodes&style=for-the-badge&url=https%3A%2F%2Fmjcodes.netlify.app)](https://mjcodes.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maxwellKJr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FmaxwellKJr&screen_name=maxwellKJr)
 
-## I'm a Full-Stack Web Developer, Linux & Open Source Enthusiast, Creative Writer and Gamer!
+## I'm a Software Developer, Linux & Open Source Enthusiast, Creative Writer and Gamer!
 
 - 🛠 I’m currently working on an Open Source GatsbyJS Starter portfolio (Working on the documentation, installation process, and How To Contribute: )
 - 👯 I’m willing to collaborate with other programmers especially those from my country, Malawi
