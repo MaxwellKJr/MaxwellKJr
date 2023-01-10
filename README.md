@@ -6,7 +6,7 @@ Software Developer, Designer, and Writer
 ----------------------------------------
 Despite being a full-stack developer, I aim at developing visually appealing software/apps that provide solutions with a wonderful User Experience.
 * 🌍  I'm based in Malawi but I won't mind remote work
-* 🖥️  See my portfolio at https://mjcodes.netlify.app
+* 🖥️  See my portfolio at https://strugglingprogrammer.netlify.app
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
 * 🧠  I'm learning Kotlin and Flutter (yes, at the same time)
 * 🤝  I'm open to collaborating on Laravel, React/React Native, and Vanilla (HTML, CSS, JS) projects
