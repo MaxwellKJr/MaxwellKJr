@@ -4,7 +4,7 @@ Hi, my name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
 Software Developer, Designer, and Writer
 ----------------------------------------
-Despite being a full-stack developer, I aim at developing visually appealing software/apps that provide solutions with a wonderful User Experience.
+I am a full-stack software developer aiming at developing visually appealing software/apps that provide solutions with a wonderful User Experience.
 * 🌍  I'm based in Malawi but I won't mind remote work
 * 🖥️  See my portfolio at https://strugglingprogrammer.netlify.app
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
