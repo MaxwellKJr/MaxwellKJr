@@ -1,6 +1,6 @@
 <a href="https://www.github.com/MaxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MaxwellKJr?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> <a href="https://www.twitter.com/maxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/maxwellKJr?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxwell Kapezi Jr.
+Hi, My name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
 Software Developer, Designer, and Writer
 ----------------------------------------
