@@ -1,6 +1,6 @@
 <a href="https://www.github.com/MaxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MaxwellKJr?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> <a href="https://www.twitter.com/maxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/maxwellKJr?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
-Hi, My name is Maxwell Kapezi Jr.
+Hi, my name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
 Software Developer, Designer, and Writer
 ----------------------------------------
