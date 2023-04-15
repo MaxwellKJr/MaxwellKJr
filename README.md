@@ -5,7 +5,7 @@ Hi, my name is Maxwell Kapezi Jr.
 Software Developer, Designer, and Writer
 ----------------------------------------
 I am a software developer aiming at developing visually appealing software/apps that provide solutions with a wonderful User Experience.
-* 🌍  I'm based in Malawi but I won't mind remote work
+* 🌍  I'm based in Malawi
 * 🖥️  See my portfolio at https://strugglingprogrammer.netlify.app
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
 * 🧠  I'm learning Kotlin and Flutter (yes, at the same time)
