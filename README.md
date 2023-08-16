@@ -8,9 +8,9 @@ I am a software developer aiming at developing visually appealing software/apps 
 * 🌍  I'm based in Malawi
 * 🖥️  See my portfolio at https://strugglingprogrammer.netlify.app
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
-* 🧠  I'm learning Kotlin and Flutter (yes, at the same time)
-* 🤝  I'm open to collaborating on Laravel, React/React Native, and Vanilla (HTML, CSS, JS) projects
-* ⚡  I love fantasy novels. The First Law Trilogy is my favorite book series of all time
+* 🧠  This year, I have shifted my focus to Mobile App Development. Currently learning Kotlin and Flutter (yes, at the same time)
+* 🤝  I'm open to collaborating on Laravel and React-based Web Projects, Native/Flutter/React Native, and Vanilla (HTML, CSS, JS) projects
+* ⚡  I love fantasy novels. The Blade Itself (Book One of The First Law Trilogy) is my favorite novel of all time
 
 <!-- <b>My GitHub Stats</b>
 
