@@ -4,12 +4,12 @@ Hi, my name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
 Software Developer, Designer, and Writer
 ----------------------------------------
-I am a software developer aiming at developing visually appealing software/apps that provide solutions with a wonderful User Experience.
-* 🌍  I'm based in Malawi
+I am a software developer who aims to develop visually appealing software/apps that provide solutions with a wonderful User Experience.
+* 🌍  Based in Malawi
 * 🖥️  See my portfolio at https://bymjcodes.com
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
 * 🧠  This year, I have shifted my focus to Mobile App Development. Currently learning Kotlin and Flutter (yes, at the same time)
-* 🤝  I'm open to collaborating on Laravel and React-based Web Projects, Native/Flutter/React Native, and Vanilla (HTML, CSS, JS) projects
+* 🤝  I'm open to collaborating on Laravel and React-based web projects, Native/Flutter/React Native, and Vanilla (HTML, CSS, JS) projects
 * ⚡  I love fantasy novels. The Blade Itself (Book One of The First Law Trilogy) is my favorite novel of all time.
 
 <!-- <b>My GitHub Stats</b>
