@@ -1,14 +1,15 @@
-<a href="https://www.github.com/MaxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MaxwellKJr?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> <a href="https://www.twitter.com/maxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/maxwellKJr?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+<a href="https://www.github.com/MaxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MaxwellKJr?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
 Hi, my name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
 Software Developer, Designer, and Writer
 ----------------------------------------
-I am a software developer who aims to develop visually appealing software/apps that provide solutions with a wonderful User Experience.
+I am a software developer who aims to develop visually appealing software/apps that provide solutions with wonderful User Experiences.
+* 🎯 Currently building a mental health social app called [Relate](github.com/MaxwellKJr/relate) with Flutter
 * 🌍  Based in Malawi
 * 🖥️  See my portfolio at https://bymjcodes.com
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
-* 🧠  This year, I have shifted my focus to Mobile App Development. Currently learning Kotlin and Flutter (yes, at the same time)
+* 🧠  This year, I have shifted my focus to Mobile App Development. Specifically **React Native**, **Flutter**, and **Kotlin/Jetpack Compose**
 * 🤝  I'm open to collaborating on Laravel and React-based web projects, Native/Flutter/React Native, and Vanilla (HTML, CSS, JS) projects
 * ⚡  I love fantasy novels. The Blade Itself (Book One of The First Law Trilogy) is my favorite novel of all time.
 
