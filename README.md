@@ -2,7 +2,7 @@
 
 Hi, my name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
-Software Engineer, Designer, and Writer
+Software Developer, Designer, and Writer
 ----------------------------------------
 I am a software developer who aims to develop visually appealing software/apps that provide solutions with wonderful User Experiences.
 * 🎯 Currently building a mental health social app called [Relate](github.com/MaxwellKJr/relate_social) with Flutter
