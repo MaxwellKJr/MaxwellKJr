@@ -7,7 +7,7 @@ Software Developer, Designer, Writer & Linux Enthusiast
 I am a software developer who aims to develop visually appealing software/apps that provide solutions with wonderful User Experiences.
 * 🎯 Currently building a mental health social app called [Relate](github.com/MaxwellKJr/relate_social) with Flutter
 * 🌍  Based in Malawi
-* 🖥️  See my portfolio at https://mjcodes.netlify.app
+* 🖥️  See my portfolio at https://bymjcodes.netlify.app
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
 * 🧠  In late 2022, I shifted my focus to Mobile App Development, specifically: **React Native**, **Flutter**, and **Kotlin/Jetpack Compose**
 * 🤝  Despite my first love being mobile app development, I'm open to collaborating on Laravel and React-based web projects as well as Vanilla (HTML, CSS, JS) projects
