@@ -5,7 +5,7 @@ Hi, my name is Maxwell Kapezi Jr.
 Software Developer, Designer, Writer & Linux Enthusiast
 ----------------------------------------
 I am a software developer who aims to develop visually appealing software/apps that provide solutions with wonderful User Experiences.
-* 🎯 Currently building a mental health social app called [Relate](github.com/MaxwellKJr/relate_social) with Flutter
+* 🎯 Currently building a mental health social app called [Relate](https://github.com/MaxwellKJr/relate_social) with Flutter
 * 🌍  Based in Malawi
 * 🖥️  See my portfolio at https://bymjcodes.netlify.app
 * ✉️  You can contact me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
