@@ -4,11 +4,11 @@ My name is Maxwell Kapezi Jr.
 ==========================================================================================================================================
 Software Developer, Designer, Writer & Linux Enthusiast
 ----------------------------------------
-I am a software developer who aims to create visually appealing software and apps that provide solutions with wonderful User Experiences.
-* 🌍  Based in Malawi
+I’m a software developer who loves building software and apps that look great and solve problems with user experiences that just feel right.
+
 * 🧠  In late 2022, I shifted my focus to Mobile App Development, currently my focus is on: **Flutter**, and **Swift**
 * 🖥️  See my portfolio at https://bymjcodes.com, I write nice things there 👀
-* ✉️   Feel free to reach me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
+* ✉️  Feel free to reach me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
 * 🤝  Despite my current love being mobile app development, I'm open to collaborating on [Laravel](https://laravel.com), React-based, and [Astro](https://astro.build) web projects
 * ⚡  I love fantasy novels. My favorite novel is the Blade Itself (Book One of The First Law Trilogy).
 
