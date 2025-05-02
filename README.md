@@ -11,7 +11,7 @@ I’m a software developer who loves building software and apps that look great 
 * ✉️  Feel free to reach me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
 * 🤝  Despite my current love being mobile app development, I'm open to collaborating on [Laravel](https://laravel.com), React-based, and [Astro](https://astro.build) web projects
 * 📚  I love fantasy novels. My favorite novel is The Blade Itself (Book One of The First Law Trilogy)
-* ♝   Also learning chess. You can humble me here: [Lichess](https://lichess.org/@/PlayerOneMw)
+* ♝   Also learning chess. You can humble me here: [Lichess.org](https://lichess.org/@/PlayerOneMw) or [Chess.com](https://www.chess.com/member/maxwellkjr)
 
 <!-- <b>My GitHub Stats</b>
 
