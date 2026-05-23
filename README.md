@@ -7,16 +7,14 @@ Swift • React Native • Flutter
 
 I’m a software developer specializing in mobile applications. I focus on building intuitive, high-quality apps with excellent user experiences. *To address the elephant in the room, I would choose React Native over Flutter 80% of the time.*
 
-Despite having a "specific" preferred stack, I am a firm believer of using the right tool(s) for the right job.
+Despite having a "specific" preferred stack, I am a firm believer in using the right tool(s) for the right job.
 
-## Mobile Stack
-- **Swift** – Native iOS development
-- **React Native** – Cross-platform mobile applications with a native feel
-- **Flutter** – Cross-platform development for a highly customized experience
-
-## Open to Collaboration
 I’m primarily focused on mobile development but am open to web projects involving React, Laravel, and Astro. Feel free to contact me [Email](mailto:maxwellkjr@gmail.com) or see my work first on my [Portfolio](https://bymjcodes.netlify.app).
 
+<!-- ## Mobile Stack
+- **Swift** – Native iOS development
+- **React Native** – Cross-platform mobile applications with a native feel
+- **Flutter** – Cross-platform development for a highly customized experience -->
 
 # Beyond Coding
 - Huge Stephen King fan — you should read The Shining or Misery
