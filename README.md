@@ -1,17 +1,29 @@
 <!-- <a href="https://www.github.com/MaxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MaxwellKJr?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> -->
 
-My name is Maxwell Kapezi Jr.
-==========================================================================================================================================
-Mobile App Developer, Writer & Linux Enthusiast
-----------------------------------------
-I’m a software developer who loves building software and apps that look great and solve problems with user experiences that just feel right.
+# Maxwell
 
-* 🧠  In late 2022, I shifted my focus to Mobile App Development, currently my focus is on: **Flutter**, and **Swift**
-* 🖥️  See my portfolio at [bymjcodes.netlify.app](https://bymjcodes.netlify.app). I write nice things there 👀
-* ✉️  Feel free to reach me at [maxwellkjr@gmail.com](mailto:maxwellkjr@gmail.com)
-* 🤝  Despite my current love being mobile app development, I'm open to collaborating on [Laravel](https://laravel.com), React-based, and [Astro](https://astro.build) web projects
-* 📚  I love fantasy novels. My favorite novel is The Blade Itself (Book One of The First Law Trilogy)
-* ♝   Also learning chess. You can humble me here: [Lichess.org](https://lichess.org/@/PlayerOneMw) or [Chess.com](https://www.chess.com/member/maxwellkjr)
+**Mobile App Developer**  
+Swift • React Native • Flutter
+
+I’m a software developer specializing in mobile applications. I focus on building intuitive, high-quality apps with excellent user experiences. *To address the elephant in the room, I would choose React Native over Flutter 80% of the time.*
+
+Despite having a "specific" preferred stack, I am a firm believer of using the right tool(s) for the right job.
+
+## Mobile Stack
+- **Swift** – Native iOS development
+- **React Native** – Cross-platform mobile applications with a native feel
+- **Flutter** – Cross-platform development for a highly customized experience
+
+## Open to Collaboration
+I’m primarily focused on mobile development but am open to web projects involving React, Laravel, and Astro. Feel free to contact me [Email](mailto:maxwellkjr@gmail.com) or see my work first on my [Portfolio](https://bymjcodes.netlify.app).
+
+
+# Beyond Coding
+- Huge Stephen King fan — you should read The Shining or Misery
+- Started playing Chess in January 2024 (feel free to humble me 😅):
+  - [Lichess](https://lichess.org/@/PlayerOneMw)
+  - [Chess.com](https://www.chess.com/member/maxwellkjr)
+- Linux enthusiast
 
 <!-- <b>My GitHub Stats</b>
 
