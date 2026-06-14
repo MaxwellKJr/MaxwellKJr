@@ -1,6 +1,6 @@
 <!-- <a href="https://www.github.com/MaxwellKJr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MaxwellKJr?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> -->
 
-# Maxwell
+<!-- # Maxwell
 
 **Mobile App Developer**  
 Swift • React Native • Flutter
@@ -8,15 +8,18 @@ Swift • React Native • Flutter
 I’m a software developer specializing in mobile applications. I focus on building intuitive, high-quality apps with excellent user experiences. *To address the elephant in the room, I would choose React Native over Flutter 80% of the time.*
 
 Despite having a "specific" preferred stack, I am a firm believer in using the right tool(s) for the right job.
+-->
 
-I’m primarily focused on mobile development but am open to web projects involving React, Laravel, and Astro. Feel free to contact me [Email](mailto:maxwellkjr@gmail.com) or see my work first on my [Portfolio](https://bymjcodes.netlify.app).
+I’m primarily focused on mobile development but am open to web projects involving React, Laravel, and Astro.
+
+<!-- Feel free to contact me [Email](mailto:maxwellkjr@gmail.com) or see my work first on my [Portfolio](https://bymjcodes.netlify.app).-->
 
 <!-- ## Mobile Stack
 - **Swift** – Native iOS development
 - **React Native** – Cross-platform mobile applications with a native feel
 - **Flutter** – Cross-platform development for a highly customized experience -->
 
-# Beyond Coding
+#### Beyond Coding
 - Huge Stephen King fan — you should read The Shining or Misery
 - Started playing Chess in January 2024 (feel free to humble me 😅):
   - [Lichess](https://lichess.org/@/PlayerOneMw)
