@@ -10,7 +10,7 @@ I’m a software developer specializing in mobile applications. I focus on build
 Despite having a "specific" preferred stack, I am a firm believer in using the right tool(s) for the right job.
 -->
 
-I’m primarily focused on mobile development but am open to web projects involving React, Laravel, and Astro.
+I’m primarily focused on mobile development but I am open to web projects involving React, Laravel, and Astro.
 
 <!-- Feel free to contact me [Email](mailto:maxwellkjr@gmail.com) or see my work first on my [Portfolio](https://bymjcodes.netlify.app).-->
 
